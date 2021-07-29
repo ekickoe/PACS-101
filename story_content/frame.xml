@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<bwFrame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" default_layout="npnxnanbnsnfns10110110001" textdirection="ltr" textengine="Uniscribe" device="false" fontscale="100" kbshortcuts="false" skip_nav_enabled="true" chromeless="false" outputtype="undefined" theme="unified" themeAccentColor="0x000000">
+<bwFrame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" default_layout="npnxnanbnsnfns10110110001" textdirection="ltr" textengine="Uniscribe" device="false" fontscale="100" captionFontScale="100" kbshortcuts="false" skip_nav_enabled="true" chromeless="false" outputtype="undefined" theme="unified" themeAccentColor="0x000000">
   <layouts>
     <layout name="npnxnanbsnfns10110110001" font="Lato" controllayout="npnxnanbsnfns10110110001" colorscheme="npnxnanbnsnfns10110110001" string_table="npnxnanbnsnfns10110110001" />
     <layout name="pxabnsnfns10110110001" font="Lato" controllayout="pxabnsnfns10110110001" colorscheme="npnxnanbnsnfns10110110001" string_table="npnxnanbnsnfns10110110001" />
@@ -43,6 +43,7 @@
               <option name="height" value="135" />
             </options>
           </option>
+          <option name="logoAltText" />
         </options>
       </optiongroup>
       <optiongroup name="menuoptions">
@@ -237,6 +238,13 @@
             <fill type="linear" rotation="90">
               <colors>
                 <color rgb="0xFFFF00" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="focus_rect_secondary">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x001D62" alpha="100" stop="0" />
               </colors>
             </fill>
           </color>
@@ -446,6 +454,20 @@
             <fill type="linear" rotation="90">
               <colors>
                 <color rgb="0xFAFAFA" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="separator">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x464646" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x464646" alpha="100" stop="0" />
               </colors>
             </fill>
           </color>
@@ -1574,27 +1596,25 @@
   </nav_data>
   <resource_data description="&lt;p align='left'&gt;&lt;font face='Lato' style='font-size: 11px;' size='11' color='#464646'&gt;Here are some useful links and documents:&lt;/font&gt;&lt;/p&gt;">
     <resources>
-      <resource url="story_content/external_files/Access Control Cabling Product Guide.pdf" image="story_content/6fN4SPRo9TX.png" title="Access Control Cabling Product Guide" />
-      <resource url="story_content/external_files/Access Control Commissioning Checklist.pdf" image="story_content/6cTneOnSmgf.png" title="Access Control Commissioning Checklist" />
-      <resource url="story_content/external_files/Access Control Commissioning Checklist.xlsx" image="story_content/5kO5ikhykuB.png" title="Access Control Commissioning Checklist" />
-      <resource url="story_content/external_files/Access Control Specification Guide.pdf" image="story_content/6YaAOtFhgPR.png" title="Access Control Specification Guide" />
-      <resource url="story_content/external_files/Access Control System Simplified Diagram.pdf" image="story_content/5xm7ix4nVLH.png" title="Access Control System Simplified Diagram" />
-      <resource url="story_content/external_files/DES Access Control 101 Training Material 2021.pdf" image="story_content/6NIGf4jj9q6.png" title="DES Access Control 101 Training Material 2021" />
-      <resource url="story_content/external_files/HID-Understanding Card Data Formats.pdf" image="story_content/6K3DYTXl5zv.png" title="HID-Understanding Card Data Formats" />
-      <resource url="story_content/external_files/IPVM 2021 Access Control Training Book.pdf" image="story_content/64bHDCSEFjC.png" title="IPVM 2021 Access Control Training Book" />
-      <resource url="story_content/external_files/Security RFP Final - Schools Access Solicitation.pdf" image="story_content/6axFFvILAXq.png" title="Security RFP Final - Schools Access Solicitation" />
+      <resource url="story_content/external_files/Access Control Cabling Product Guide.pdf" image="story_content/6FSUwwJqLrq.png" title="Access Control Cabling Product Guide" />
+      <resource url="story_content/external_files/Access Control Commissioning Checklist.pdf" image="story_content/6iNr09EyvRy.png" title="Access Control Commissioning Checklist" />
+      <resource url="story_content/external_files/Access Control Commissioning Checklist.xlsx" image="story_content/6YNN8Ek7SVv.png" title="Access Control Commissioning Checklist" />
+      <resource url="story_content/external_files/Access Control Specification Guide.pdf" image="story_content/5ovjEnma5NU.png" title="Access Control Specification Guide" />
+      <resource url="story_content/external_files/Access Control System Simplified Diagram.pdf" image="story_content/65Mn4n5Y7Oc.png" title="Access Control System Simplified Diagram" />
+      <resource url="story_content/external_files/DES Access Control 101 Training Material 2021.pdf" image="story_content/6IKjjP2UYEY.png" title="DES Access Control 101 Training Material 2021" />
+      <resource url="story_content/external_files/HID-Understanding Card Data Formats.pdf" image="story_content/6mC9vw8d3qB.png" title="HID-Understanding Card Data Formats" />
+      <resource url="story_content/external_files/IPVM 2021 Access Control Training Book.pdf" image="story_content/6QxvakBedzh.png" title="IPVM 2021 Access Control Training Book" />
+      <resource url="story_content/external_files/Security RFP Final - Schools Access Solicitation.pdf" image="story_content/5XgDcij0Rj2.png" title="Security RFP Final - Schools Access Solicitation" />
     </resources>
   </resource_data>
   <transcript_data />
   <glossary_data>
     <terms>
-      <term title="Access Card">A card, generally the size and shape of a credit card, containing encoded data. 
-The data can be encoded in a variety of ways, sometimes including more than one encoding technology. (i.e. Magnetic Stripe, Proximity, Smart Card, Wiegand.) 
+      <term title="Access Card">A card, generally the size and shape of a credit card, containing encoded data. The data can be encoded in a variety of ways, sometimes including more than one encoding technology. (i.e. Magnetic Stripe, Proximity, Smart Card, Wiegand.) 
 </term>
       <term title="Anti-passback">Commonly used at any entrance-exit doors. This requires that a card reader be installed on both the inside and the outside of the door. Personnel are required to both "card-in" when they enter the building and "card-out" when they leave the building. The anti-passback feature is also commonly used with turnstiles.
 </term>
-      <term title="Biometric Reader">A device that stores enrolled templates of a unique human trait such as a fingerprint, hand geometry, voice, or retina pattern and looks for a match against 
-a live presentation, to grant access to a secure area. Used as an alternate to card readers. 
+      <term title="Biometric Reader">A device that stores enrolled templates of a unique human trait such as a fingerprint, hand geometry, voice, or retina pattern and looks for a match against a live presentation, to grant access to a secure area. Used as an alternate to card readers. 
 </term>
       <term title="Biometrics">A family of products that electronically scans or reads unique traits of the human body for verification or identification purposes. Biometrics can utilize unique patterns of the iris, retina,hand geometry, or fingerprint. 
 </term>

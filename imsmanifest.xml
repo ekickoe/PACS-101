@@ -178,7 +178,7 @@
       <file href="story_content/5Y8tiYzWwC0_44100_128_0.mp3" />
       <file href="story_content/5ZFJu8WoIlu_captions.js" />
       <file href="mobile/5gjMW46M2WI_P_0_0_644_898_DX1760_DY1760_CX566_CY790.png" />
-      <file href="story_content/6iAly84bpzu_44100_128_0.mp3" />
+      <file href="story_content/6FhZrQKHCMt_44100_128_0.mp3" />
       <file href="mobile/5rrCTSgS38Z_P_0_81_1280_494_DX552_DY552_CX507_CY196.jpg" />
       <file href="mobile/5cB1ioy0wFi_DX494_DY494_CX505_CY300.jpg" />
       <file href="mobile/6789TzRzsrz_DX410_DY410_CX419_CY314.png" />
@@ -362,18 +362,17 @@
       <file href="story_content/6bMvz7IFxEF_captions.js" />
       <file href="mobile/poster_6bMvz7IFxEF_video_67NGOTeeq3X_18_128_738x416.jpg" />
       <file href="mobile/6fHEdLCi0of_P_0_0_678_898_DX1728_DY1728_CX585_CY774.png" />
-      <file href="story_content/5ZFpyI1kwWv_44100_128_0.mp3" />
-      <file href="story_content/684y3hny2iO_captions.js" />
+      <file href="story_content/5mwB9AfrGua_44100_128_0.mp3" />
       <file href="meta.xml" />
-      <file href="story_content/6fN4SPRo9TX.png" />
-      <file href="story_content/6cTneOnSmgf.png" />
-      <file href="story_content/5kO5ikhykuB.png" />
-      <file href="story_content/6YaAOtFhgPR.png" />
-      <file href="story_content/5xm7ix4nVLH.png" />
-      <file href="story_content/6NIGf4jj9q6.png" />
-      <file href="story_content/6K3DYTXl5zv.png" />
-      <file href="story_content/64bHDCSEFjC.png" />
-      <file href="story_content/6axFFvILAXq.png" />
+      <file href="story_content/6FSUwwJqLrq.png" />
+      <file href="story_content/6iNr09EyvRy.png" />
+      <file href="story_content/6YNN8Ek7SVv.png" />
+      <file href="story_content/5ovjEnma5NU.png" />
+      <file href="story_content/65Mn4n5Y7Oc.png" />
+      <file href="story_content/6IKjjP2UYEY.png" />
+      <file href="story_content/6mC9vw8d3qB.png" />
+      <file href="story_content/6QxvakBedzh.png" />
+      <file href="story_content/5XgDcij0Rj2.png" />
       <file href="story_content/user.js" />
       <file href="story_content/external_files/Access Control Cabling Product Guide.pdf" />
       <file href="story_content/external_files/Access Control Commissioning Checklist.pdf" />
@@ -499,6 +498,7 @@
       <file href="lms/blank.html" />
       <file href="lms/browsersniff.js" />
       <file href="lms/goodbye.html" />
+      <file href="lms/LICENSE.txt" />
       <file href="lms/scormdriver.js" />
     </resource>
   </resources>
