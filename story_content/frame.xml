@@ -23,6 +23,7 @@
           <option name="sidebar_enabled" value="true">
             <options>
               <option name="sidebarpos" value="left" />
+              <option name="closed" value="true" />
             </options>
           </option>
           <optionlist name="tabs">
@@ -1532,7 +1533,7 @@
         <slidelink slideid="_player.5muhcuHzhyT" displaytext="Introduction" expand="true" type="slide">
           <links>
             <slidelink slideid="_player.5muhcuHzhyT.5cL7IeEelcX" displaytext="PACS Introductory Video" expand="false" type="slide" />
-            <slidelink slideid="_player.5muhcuHzhyT.68jweDsoxWK" displaytext="Interlocking" expand="false" type="slide" />
+            <slidelink slideid="_player.5muhcuHzhyT.6YStuP0FWBl" displaytext="Interlocking" expand="false" type="slide" />
             <slidelink slideid="_player.5muhcuHzhyT.60ItpLNr7dw" displaytext="What and Why PACS?" expand="false" type="slide" />
             <slidelink slideid="_player.5muhcuHzhyT.5oAKsXYUwtq" displaytext="Benefits of PACS" expand="false" type="slide" />
             <slidelink slideid="_player.5muhcuHzhyT.63rLqfcHJiU" displaytext="PACS Concepts and Types" expand="false" type="slide" />
@@ -1596,15 +1597,16 @@
   </nav_data>
   <resource_data description="&lt;p align='left'&gt;&lt;font face='Lato' style='font-size: 11px;' size='11' color='#464646'&gt;Here are some useful links and documents:&lt;/font&gt;&lt;/p&gt;">
     <resources>
-      <resource url="story_content/external_files/Access Control Cabling Product Guide.pdf" image="story_content/6FSUwwJqLrq.png" title="Access Control Cabling Product Guide" />
-      <resource url="story_content/external_files/Access Control Commissioning Checklist.pdf" image="story_content/6iNr09EyvRy.png" title="Access Control Commissioning Checklist" />
-      <resource url="story_content/external_files/Access Control Commissioning Checklist.xlsx" image="story_content/6YNN8Ek7SVv.png" title="Access Control Commissioning Checklist" />
-      <resource url="story_content/external_files/Access Control Specification Guide.pdf" image="story_content/5ovjEnma5NU.png" title="Access Control Specification Guide" />
-      <resource url="story_content/external_files/Access Control System Simplified Diagram.pdf" image="story_content/65Mn4n5Y7Oc.png" title="Access Control System Simplified Diagram" />
-      <resource url="story_content/external_files/DES Access Control 101 Training Material 2021.pdf" image="story_content/6IKjjP2UYEY.png" title="DES Access Control 101 Training Material 2021" />
-      <resource url="story_content/external_files/HID-Understanding Card Data Formats.pdf" image="story_content/6mC9vw8d3qB.png" title="HID-Understanding Card Data Formats" />
-      <resource url="story_content/external_files/IPVM 2021 Access Control Training Book.pdf" image="story_content/6QxvakBedzh.png" title="IPVM 2021 Access Control Training Book" />
-      <resource url="story_content/external_files/Security RFP Final - Schools Access Solicitation.pdf" image="story_content/5XgDcij0Rj2.png" title="Security RFP Final - Schools Access Solicitation" />
+      <resource url="story_content/external_files/Access Control Cabling Product Guide.pdf" image="story_content/6Gb76xuFGUo.png" title="Access Control Cabling Product Guide" />
+      <resource url="story_content/external_files/Access Control Commissioning Checklist.pdf" image="story_content/65cOijPJnpc.png" title="Access Control Commissioning Checklist" />
+      <resource url="story_content/external_files/Access Control Commissioning Checklist.xlsx" image="story_content/6fPlER9MCiS.png" title="Access Control Commissioning Checklist" />
+      <resource url="story_content/external_files/Access Control Specification Guide.pdf" image="story_content/6ZQDc3FdLtb.png" title="Access Control Specification Guide" />
+      <resource url="story_content/external_files/Access Control System Simplified Diagram.pdf" image="story_content/5fbwLXb564o.png" title="Access Control System Simplified Diagram" />
+      <resource url="story_content/external_files/DES Access Control 101 Training Material 2021.pdf" image="story_content/6eMzwuh7D5a.png" title="DES Access Control 101 Training Material 2021" />
+      <resource url="story_content/external_files/HID-Understanding Card Data Formats.pdf" image="story_content/6IyrXb3dT9E.png" title="HID-Understanding Card Data Formats" />
+      <resource url="story_content/external_files/IPVM 2021 Access Control Training Book.pdf" image="story_content/6emrCOcBDOZ.png" title="IPVM 2021 Access Control Training Book" />
+      <resource url="story_content/external_files/Security RFP Final - Schools Access Solicitation.pdf" image="story_content/5lcsnmelGIU.png" title="Security RFP Final - Schools Access Solicitation" />
+      <resource url="story_content/external_files/Security Equipment Schedule.xlsx" image="story_content/5e7BhvlpOkc.png" title="Security Equipment Schedule" />
     </resources>
   </resource_data>
   <transcript_data />
