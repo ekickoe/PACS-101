@@ -1597,16 +1597,16 @@
   </nav_data>
   <resource_data description="&lt;p align='left'&gt;&lt;font face='Lato' style='font-size: 11px;' size='11' color='#464646'&gt;Here are some useful links and documents:&lt;/font&gt;&lt;/p&gt;">
     <resources>
-      <resource url="story_content/external_files/Access Control Cabling Product Guide.pdf" image="story_content/5lk3Uino6JX.png" title="Access Control Cabling Product Guide" />
-      <resource url="story_content/external_files/Access Control Commissioning Checklist.pdf" image="story_content/5mHcqWUzKO0.png" title="Access Control Commissioning Checklist" />
-      <resource url="story_content/external_files/Access Control Commissioning Checklist.xlsx" image="story_content/5u9hctlix6l.png" title="Access Control Commissioning Checklist" />
-      <resource url="story_content/external_files/Access Control Specification Guide.pdf" image="story_content/6MZDFQK2WWS.png" title="Access Control Specification Guide" />
-      <resource url="story_content/external_files/Access Control System Simplified Diagram.pdf" image="story_content/5lvgSFk8YsW.png" title="Access Control System Simplified Diagram" />
-      <resource url="story_content/external_files/DES Access Control 101 Training Material 2021.pdf" image="story_content/69qDBMNEElM.png" title="DES Access Control 101 Training Material 2021" />
-      <resource url="story_content/external_files/HID-Understanding Card Data Formats.pdf" image="story_content/6paREyjHu5k.png" title="HID-Understanding Card Data Formats" />
-      <resource url="story_content/external_files/IPVM 2021 Access Control Training Book.pdf" image="story_content/5UkC5XTFVUA.png" title="IPVM 2021 Access Control Training Book" />
-      <resource url="story_content/external_files/Security RFP Final - Schools Access Solicitation.pdf" image="story_content/5dbH3E5eU1C.png" title="Security RFP Final - Schools Access Solicitation" />
-      <resource url="story_content/external_files/Security Equipment Schedule.xlsx" image="story_content/6juTDZOECza.png" title="Security Equipment Schedule" />
+      <resource url="story_content/external_files/Access Control Cabling Product Guide.pdf" image="story_content/6K9nb6HW1E0.png" title="Access Control Cabling Product Guide" />
+      <resource url="story_content/external_files/Access Control Commissioning Checklist.pdf" image="story_content/6ClcU8HYNSw.png" title="Access Control Commissioning Checklist" />
+      <resource url="story_content/external_files/Access Control Commissioning Checklist.xlsx" image="story_content/6C4283wybW3.png" title="Access Control Commissioning Checklist" />
+      <resource url="story_content/external_files/Access Control Specification Guide.pdf" image="story_content/6W1vnspaLBw.png" title="Access Control Specification Guide" />
+      <resource url="story_content/external_files/Access Control System Simplified Diagram.pdf" image="story_content/5lv80M1MxMw.png" title="Access Control System Simplified Diagram" />
+      <resource url="story_content/external_files/DES Access Control 101 Training Material 2021.pdf" image="story_content/5aRBz5IC72r.png" title="DES Access Control 101 Training Material 2021" />
+      <resource url="story_content/external_files/HID-Understanding Card Data Formats.pdf" image="story_content/6P5xx1KrcF2.png" title="HID-Understanding Card Data Formats" />
+      <resource url="story_content/external_files/IPVM 2021 Access Control Training Book.pdf" image="story_content/5oQPGzAzd7s.png" title="IPVM 2021 Access Control Training Book" />
+      <resource url="story_content/external_files/Security RFP Final - Schools Access Solicitation.pdf" image="story_content/6JZoXUxyGBa.png" title="Security RFP Final - Schools Access Solicitation" />
+      <resource url="story_content/external_files/Security Equipment Schedule.xlsx" image="story_content/6DsfKRsSoPe.png" title="Security Equipment Schedule" />
     </resources>
   </resource_data>
   <transcript_data />
@@ -1626,7 +1626,7 @@
 </term>
       <term title="Disarm">The act of disabling or shunting a security system or portions of the system to ignore input signals that normally result in alarms. Disarming can occur with user intervention, such as pass codes entered into a keypad, or on schedule through a PC based Access Control System. 
 </term>
-      <term title="Door Contact  or Door Switch Monitor (DSM) ">A device, typically a magnetic based contact, installed in a door to detect the position of the door. The signal from a DSM is connected to a security system to report conditions such as “FORCED” and “HELD” and in instances where electrified locking hardware is included, relocking of the door. 
+      <term title="Door Contact  or Door Position Switch (DPS)">A device, typically a magnetic based contact, installed in a door to detect the position of the door. The signal from a DPS is connected to a security system to report conditions such as “FORCED” and “HELD” and in instances where electrified locking hardware is included, relocking of the door. 
 </term>
       <term title="Door Forced">A door forced alarm is the resulting logical alarm that occurs at a portal when the door is sensed to be in an open state without an associated valid access card transaction or an associated REX signal. 
 </term>
@@ -1638,6 +1638,7 @@
 </term>
       <term title="Duress Alarm (Panic Button)">A device, such as a push button or pull station, connected to a security system to signal an alarm when an individual is threatened or forced to do something. Bank Clerks typically have a duress alarm installed beneath their counter to signal robbery attempts. 
 </term>
+      <term title="Electric Power Transfer Door Loops">Surface and concealed mortise mount power transfer loops provide a means of running wires from the frame to doors equipped with electric locks and exit devices.</term>
       <term title="Electric strike">Is an access control device used for doors. It replaces the fixed strike faceplate often used with a latch bar (also known as a keeper). Like a fixed strike, it normally presents a ramped surface to the locking latch allowing the door to close and latch just like a fixed strike would.
 </term>
       <term title="EM Lock ">An electromagnetic lock, magnetic lock, or maglock is a locking device that consists of an electromagnet and an armature plate. There are two main types of electric locking devices. A fail-secure locking device remains locked when power is lost. Fail-safe locking devices are unlocked when de-energized.
@@ -1654,6 +1655,7 @@ specified entrance while another entrance is being utilized. Typically two doors
 </term>
       <term title="Open Supervised Device Protocol (OSDP)">Is an access control communications standard developed by the Security Industry Association (SIA) to improve interoperability among access control and security products.
 </term>
+      <term title="Override Key Switch">The Override Key Switch is used as a backup to an access control system and designed to be installed in a secure location outside, wired in parallel or series with the power supply and the electromagnetic lock (EM lock). If the EM lock malfunctions due to the failure of the reader or other reasons, the user can switch between normally closed (N.C.) and normally open (N.O.) contacts by using the key, thus forcing the door to open. </term>
       <term title="Piezo Sounder">A buzzer or beeper is an audio signalling device, which may be mechanical, electromechanical, or piezoelectric (piezo for short).
 </term>
       <term title="PIR sensor ">A passive infrared sensor is an electronic sensor that measures infrared (IR) light radiating from objects in its field of view. They are most often used in PIR-based motion detectors.
